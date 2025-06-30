@@ -1,5 +1,5 @@
 # Use a base image with Java 17 (or your project's Java version)
-FROM eclipse-temurin:24-jdk-jammy
+FROM openjdk:24-jdk
 
 # Set the working directory inside the container
 WORKDIR /app
