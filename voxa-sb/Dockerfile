@@ -11,7 +11,7 @@ FROM openjdk:17-jdk-slim
 
 WORKDIR /app
 
-COPY --from=buitd /app/target/Voxa-0.0.1-SNAPSHOT.jar .
+COPY --from=build /app/target/Voxa-0.0.1-SNAPSHOT.jar .
 
 EXPOSE 8080
 
