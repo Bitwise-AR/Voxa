@@ -108,7 +108,10 @@ npm run dev
   The application is live at https://voxa-email-ai.vercel.app/
 
 ## 📸 Screenshots
-  _Uploading Soon_
+  <img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/39611497-d7ab-4c61-a64e-de92015179f1" />
+  <img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/1804a98a-5ec4-40ab-a650-bfa019fa42af" />
+  <img width="1919" height="1009" alt="image" src="https://github.com/user-attachments/assets/b6e18c9a-8762-4af9-bed1-c2827792adb8" />
+  <img width="1919" height="1017" alt="image" src="https://github.com/user-attachments/assets/31304835-cd04-4eca-b7b2-00b89cc89c34" />
 
 ---
 
