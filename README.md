@@ -104,6 +104,9 @@ npm run dev
 
 ---
 
+## 🔻 Deployement
+  The application is live at https://voxa-email-ai.vercel.app/
+
 ## 📸 Screenshots
   _Uploading Soon_
 
